@@ -12,3 +12,4 @@ C:\Users\Ismael\Desktop\Uni\SEM 6\Simulacion de Sistemas\Practica - Generador Du
 C:\Users\Ismael\Desktop\Uni\SEM 6\Simulacion de Sistemas\Practica - Generador Dummy Data\dummyData\obj\Debug\net8.0\dummyData.pdb
 C:\Users\Ismael\Desktop\Uni\SEM 6\Simulacion de Sistemas\Practica - Generador Dummy Data\dummyData\obj\Debug\net8.0\dummyData.genruntimeconfig.cache
 C:\Users\Ismael\Desktop\Uni\SEM 6\Simulacion de Sistemas\Practica - Generador Dummy Data\dummyData\obj\Debug\net8.0\ref\dummyData.dll
+C:\Users\Ismael\Desktop\Uni\SEM 6\Simulacion de Sistemas\Practica - Generador Dummy Data\dummyData\obj\Debug\net8.0\dummyData.sourcelink.json

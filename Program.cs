@@ -137,6 +137,7 @@ public class MyForm : Form
             else
             {
                 Exportador.Eleccion(comboBox4.SelectedIndex, datos);
+                MessageBox.Show("Descarga realizada con éxito. Revisa la carpeta del proyecto para ver el archivo generado.");
             }
 
         };
